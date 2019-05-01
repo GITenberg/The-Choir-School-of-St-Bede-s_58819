@@ -5,12 +5,17 @@ contributor:
     agent_name: Cook, Emily A.
     gutenberg_agent_id: '50170'
     url: http://www.gutenberg.org/2009/agents/50170
+covers:
+- cover_type: archival
+  image_path: 58819-h/images/cover.jpg
 creator:
   author:
     agent_name: Harrison, Frederick
     gutenberg_agent_id: '50169'
     url: http://www.gutenberg.org/2009/agents/50169
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58819#The-Choir-School-of-St-Bede-s
 gutenberg_issued: '2019-02-03'
 gutenberg_type: Text
 identifiers:
